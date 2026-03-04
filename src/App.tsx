@@ -18,7 +18,7 @@ function App() {
   return (
     <div className="app-container">
       <h1>Preact Environment Variables</h1>
-      <div className="rollback"> Rollback </div>
+      <div className="rollback">Roll Check</div>
 
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
